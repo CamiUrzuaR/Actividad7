@@ -1,0 +1,40 @@
+.header {
+	background-image: url(Img/bg.jpeg);
+	color: white;
+	text-align: center;
+}
+
+.logo {
+	width: 15%;
+	display: inline;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.parrafo {
+	text-align: center;
+
+}
+
+.familia {
+	width: 50%;
+}
+
+.medio {
+	border-bottom: solid 1px;
+	border-top: solid 2px;
+	border-color: silver;
+}
+
+.contacto {
+	text-align: right;
+	padding-right: 70px;
+}
+
+.footer {
+	padding-left: 210px;
+	background-color: black;
+	color: white;
+}
